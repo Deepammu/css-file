@@ -1,0 +1,96 @@
+*
+{
+    margin:0;
+    padding:0;
+}
+body{
+    background: linear-gradient(90deg,rgba(20,203,43,0.29) 0%, rgba(0,233,255,0.2) 80%);
+}
+h2 {
+    
+    margin-left: 10px;
+    text-align: center;
+}
+h2 a:hover{
+    text-decoration: underline;
+    color: red;
+
+}
+table{
+    width: 700px;
+    height: 200px;
+}
+
+table{
+    border: 2px solid white;
+    border-collapse: collapse;
+    padding:10px 20px;
+    width: 500px;
+    margin-left: 380px;
+  margin-top: 5%;
+    margin-bottom: 5%;
+    color: white;
+}
+table tr,td{
+    border: 2px solid rgb(251, 252, 251);
+    border-collapse: collapse;
+}
+.n1
+{background-color: rgb(32, 135, 133);}
+#n1{
+    background-color: rgb(32, 135, 133);
+}
+.n2{
+    background-color: brown;
+}
+#n2{
+    background-color: brown;
+}
+.n3{
+    background-color: aqua;
+}
+#n3{
+    background-color: aqua;
+}
+.n4{
+    background-color: blue;
+}
+#n4{
+    background-color: blue;
+}  
+.n5{
+    background-color:  rgb(8, 95, 8);
+}
+#n5{
+    background-color: rgb(8, 95, 8);
+}
+.n6{
+    background-color: maroon;
+}
+#n6{
+    background-color: maroon;
+}
+.n7{
+    background-color: rgb(240, 177, 5);
+}
+#n7{
+    background-color: rgb(240, 177, 5);
+}
+.n8{
+    background-color: blue;
+}
+#n8{
+    background-color: blue;
+}
+.n9{
+    background-color: rgb(248, 156, 187);
+    }
+    #n9{
+        background-color: rgb(248, 156, 187);
+    }
+    .n1,.n2,.n3,.n4,.n5,.n6,.n7,.n8,.n9{
+        text-align: center;
+    }
+#n1,#n2,#n3,#n4,#n5,#n6,#n7,#n8,#n9{
+    text-align: center;
+}
